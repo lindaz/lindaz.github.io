@@ -1,0 +1,29 @@
+canvas {
+	width: 100%;
+	height: 100%;
+	background: #343d4d;
+}
+
+body, html {
+	height: 100%;
+	margin: 0;
+	font-family: 'IBM Plex Serif', serif;
+}
+
+h1 {
+	padding: 10px 10px;
+}
+
+p {
+	font-size: 12px;
+	padding: 0 0 10px 10px;
+}
+
+h1, p {
+	background: #c2cdd0;
+	color: #343d4d;
+	margin: 0px auto;
+	text-align: center;
+	border: none;
+	font-style: italic;
+}
